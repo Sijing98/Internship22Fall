@@ -1,2 +1,5 @@
 Week 7: Deliverables (Project Proposal Report)  
 Week 8: Deliverables (Data Understanding)
+Week 9: Deliverables (Data Cleansing and Transformation)  
+Week 10: Deliverables (EDA)  
+Week 11: Deliverables (EDA - Presentation)
